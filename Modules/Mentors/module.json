@@ -1,0 +1,14 @@
+{
+    "name": "Mentors",
+    "alias": "mentors",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Mentors\\Providers\\MentorsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
